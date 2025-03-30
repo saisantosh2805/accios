@@ -1,4 +1,4 @@
 # accios 
 
 job
-get time 
+get times
