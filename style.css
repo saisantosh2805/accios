@@ -1,0 +1,144 @@
+/* *{
+ background-color: white;   
+}
+body{
+    font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+table{
+background-color: black;
+width: 300px;
+height:10px;
+}
+thead{
+    width: 50px;
+    padding:100px;
+}
+button{
+    background-color: aqua;
+    padding: 100px;
+    width: 10px;
+}
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    text-align: center;
+    color: #333;
+  }
+  td {
+    text-align: center;
+  }
+  
+  .loading {
+    font-style: italic;
+    color: gray;
+  } 
+  your css code here. If applicable  *{
+	padding:10px;
+	
+}
+body{
+	width: 500px;       /* Box width */
+  /* height: 350px;/
+  border: 3px solid black;
+Box border 
+	border-radius:20px;
+  padding:100px;      /* Space inside the box *
+   /* Center text inside */
+  /* justify-content: center;
+  align-items: center;
+  }
+.code-container{
+	display:flex;
+	padding:5px;
+	gap:15px;
+	height:100px;
+
+}
+.code{
+	height:50px;
+	width:40px;
+	border-radius:10px;
+opacity:0.2;
+}
+input::placeholder {
+  color: gray;
+  font-size: 54px;
+text-align:center;
+	justify-content:center;
+	align-items:center;
+}
+input:focus::placeholder {
+  color: lightgray;
+  opacity: 1.7;
+}
+nav{
+  background-color: aqua;
+} */ */ */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2em;
+}
+
+section {
+  background-color: #f7f7f7;
+  padding: 1em;
+  margin-bottom: 1em;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+  margin-top: 0;
+}
+
+#menu-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#menu-list li {
+  padding: 0.5em;
+  border-bottom: 1px solid #ccc;
+}
+
+#menu-list li:last-child {
+  border-bottom: none;
+}
+
+#place-order-btn {
+  background-color: #333;
+  color: #fff;
+  padding: 0.5em 1em;
+  border: none;
+  border-radius: 0.25em;
+  cursor: pointer;
+}
+
+#place-order-btn:hover {
+  background-color: #444;
+}
+
+#order-status {
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-top: 1em;
+}
